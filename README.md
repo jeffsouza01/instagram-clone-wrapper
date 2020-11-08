@@ -1,7 +1,7 @@
 # Instagram Clone Wrapper
 
-<p>![](./public/img/screen01.PNG)</p>
-<p>![](./public/img/screen02.PNG)</p>
+![](./public/img/screen01.PNG)
+![](./public/img/screen02.PNG)
 
 Clone realizado da primeira interface da tela de login do Instagram.
 
